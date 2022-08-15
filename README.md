@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-# EatKano
+# Eat cXk
 
 _🦌 网页小游戏 🥛_
 
@@ -12,7 +12,7 @@ _🦌 网页小游戏 🥛_
 
 ## 简介
 
-小游戏：吃掉小鹿乃
+小游戏：吃掉蔡徐坤
 
 [鹿乃b站](https://space.bilibili.com/316381099)
 |
